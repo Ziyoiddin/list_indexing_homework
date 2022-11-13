@@ -1,4 +1,4 @@
-def main():
+def main(5)
     """
     Return an empty list to the result.
     Args:
@@ -6,4 +6,4 @@ def main():
     Returns:
         list: return answer
     """
-    return []
+    return [5]
